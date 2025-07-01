@@ -1,6 +1,6 @@
 # 🧮 Job Board - Full Stack App
 
-🚀 **Demo Video:** [Watch on Vimeo]([https://vimeo.com/your-demo-link](https://vimeo.com/1097929443?share=copy))
+🚀 **Demo Video:** [Watch on Vimeo](https://vimeo.com/1097929443?share=copy)
 
 This is a full-stack Job Board application built with **Flask (backend)** and **React (frontend)**. It scrapes actuarial job listings from [actuarylist.com](https://www.actuarylist.com/) using **Selenium**, stores them in a **SQLite** database, and displays them in a **responsive React UI** with full CRUD functionality and search filters.
 
